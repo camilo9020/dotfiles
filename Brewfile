@@ -2,6 +2,7 @@ tap 'nodenv/nodenv'
 
 brew 'antigen'
 brew 'heroku'
+brew 'hub'
 brew 'imagemagick'
 brew 'nodenv'
 brew 'nodenv-aliases'
